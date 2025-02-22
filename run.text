@@ -1,0 +1,48 @@
+Restaurant Management System
+1. View Menu
+2. Add Item to Order
+3. View Order
+4. Checkout
+Choose an option: 1
+Dish: Pasta - $12.99 (Cuisine: Italian)
+Dish: Sushi - $15.99 (Cuisine: Japanese)
+Drink: Coke - $2.5 (Non-Alcoholic)
+Drink: Wine - $8.99 (Alcoholic)
+
+Restaurant Management System
+1. View Menu
+2. Add Item to Order
+3. View Order
+4. Checkout
+Choose an option: 2
+Enter item name: coke
+coke added to order.
+
+Restaurant Management System
+1. View Menu
+2. Add Item to Order
+3. View Order
+4. Checkout
+Choose an option: 2
+Enter item name: wine
+wine added to order.
+
+Restaurant Management System
+1. View Menu
+2. Add Item to Order
+3. View Order
+4. Checkout
+Choose an option: 3
+Order Details:
+Drink: Coke - $2.5 (Non-Alcoholic)
+Drink: Wine - $8.99 (Alcoholic)
+Total Cost: $11.49
+
+Restaurant Management System
+1. View Menu
+2. Add Item to Order
+3. View Order
+4. Checkout
+Choose an option: 4
+Final Total: $11.49
+Checkout successful. Thank you!
